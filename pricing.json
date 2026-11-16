@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-11-16",
+  "packages": [
+    {
+      "id": "basic",
+      "name": "Paket Basic Video",
+      "price": "Rp 100rb",
+      "subtitle": "1 video (Reels/Shorts/TikTok)",
+      "features": [
+        "Talent",
+        "Editing",
+        "Musik bebas lisensi",
+        "Estimasi pengerjaan: 1–2 hari kerja"
+      ],
+      "ideal_for": "Campaign singkat, teaser produk, atau perkenalan layanan"
+    },
+    {
+      "id": "plus",
+      "name": "Paket Plus Video",
+      "price": "Rp 625rb",
+      "subtitle": "7 video (Reels/Shorts/TikTok)",
+      "features": [
+        "Talent",
+        "Editing",
+        "Caption copywriting",
+        "Format optimal untuk Reels/TikTok/Shorts",
+        "Estimasi pengerjaan: 1–2 hari kerja/video"
+      ],
+      "ideal_for": "Konten promosi, edukasi, storytelling, atau membangun kehadiran brand"
+    },
+    {
+      "id": "premium",
+      "name": "Paket Premium Video",
+      "price": "Rp 2,5jt",
+      "subtitle": "30 video (Reels/Shorts/TikTok)",
+      "features": [
+        "Talent",
+        "Editing",
+        "Caption lengkap untuk tiap video",
+        "Strategi variasi konten (soft selling, hard selling, edukatif, social proof, dan lainnya)",
+        "Estimasi pengerjaan: 1–2 hari kerja/video"
+      ],
+      "ideal_for": "Brand yang ingin aktif sepanjang bulan"
+    },
+    {
+      "id": "custom",
+      "name": "Custom Package",
+      "price": "Custom",
+      "subtitle": "Sesuai kebutuhan client",
+      "features": [
+        "Diskusikan kebutuhan spesifik",
+        "Rencana produksi terstruktur",
+        "Post-production & delivery"
+      ],
+      "ideal_for": "Client yang membutuhkan solusi terpadu sesuai kebutuhan spesifik"
+    }
+  ],
+  "carousel": {
+    "status": "TBA",
+    "note": "3 paket akan ditambahkan nanti saat akan ditentukan"
+  }
+}
